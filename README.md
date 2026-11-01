@@ -8,7 +8,7 @@
 
 _Master Thesis_ work co-advised by: 
 - [Dr. Muhammad Haseeeb](https://haseeblums.github.io/) and [Dr.Anirudh Sivaraman](https://anirudhsk.github.io/) from [Systems@NYU](https://news.cs.nyu.edu/).
-- [Dr. Navidreza Asadi](https://nrasadi.github.io/) and [Prof. Dr.-Ing. Wolfgang Kellerer](https://www.ce.cit.tum.de/en/lkn/team/staff/kellerer-wolfgang/) from  the [LKN](https://www.ce.cit.tum.de/en/lkn/home/) at TUM.
+- [PhD. Navidreza Asadi](https://nrasadi.github.io/) and [Prof. Dr.-Ing. Wolfgang Kellerer](https://www.ce.cit.tum.de/en/lkn/team/staff/kellerer-wolfgang/) from  the [LKN](https://www.ce.cit.tum.de/en/lkn/home/) at TUM.
 
 ## Introduction
 
