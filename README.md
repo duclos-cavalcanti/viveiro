@@ -1,4 +1,4 @@
-<h1 align="center">Viveiro -- a Tree Builder</h1>
+<h1 align="center">Viveiro: a Tree Builder</h1>
 <p align="center">
    M.Sc. Thesis - VM Selection Heuristic for Financial Exchanges in the Cloud
 </p>
